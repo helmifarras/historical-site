@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">Historical Site Wiki</string>
+    <string name="title_placeholder">Title</string>
+    <string name="location_placeholder">Locations</string>
+    <string name="subtitle_detail_text">Detail</string>
+    <string name="tv_credit">Thank you for downloading this app. \n \nRegards, \nTeam Two Players
+    \n \nReferences: \nWikipedia \n \nPhoto : \n \nBy Daniel Schwen - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=7647000
+    \n \nBy Nina - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=282496
+    \n \nBy Arild Vågen - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24932378
+    \n \nBy Martin St-Amant (S23678) - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8450312
+    \n \nBy garethwiscombe - https://www.flickr.com/photos/garethwiscombe/1071477228/in/photostream/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=13278936
+    </string>
+
+    <string-array name="detail_title">
+        <item>The Alhambra is a palace and fortress complex located in Granada,
+        Andalusia, Spain. It was originally constructed as a small fortress in AD 889 on the remains
+        of Roman fortifications, and then largely ignored until its ruins were renovated and rebuilt
+        in the mid-13th century by the Nasrid emir Mohammed ben Al-Ahmar of the Emirate of Granada,
+        who built its current palace and walls. \n \nIt was converted into a royal palace in 1333 by Yusuf I,
+        Sultan of Granada.After the conclusion of the Christian Reconquista in 1492, the site became
+        the Royal Court of Ferdinand and Isabella (where Christopher Columbus received royal endorsement
+        for his expedition), and the palaces were partially altered in the Renaissance style. \n \nIn 1526 Charles I &amp; V commissioned a new Renaissance palace better befitting the Holy Roman Emperor
+        in the revolutionary Mannerist style influenced by humanist philosophy in direct juxtaposition with
+        the Nasrid Andalusian architecture, but it was ultimately never completed due to Morisco rebellions
+        in Granada.</item>
+
+        <item>Angkor Wat is a temple complex in Cambodia and one of the largest
+        religious monuments in the world, on a site measuring 162.6 hectares. Originally constructed as a
+        Hindu temple dedicated to the god Vishnu for the Khmer Empire, it was gradually transformed into a
+        Buddhist temple towards the end of the 12th century. \n \nIt was built by the Khmer King Suryavarman II
+        in the early 12th century in Yasodharapura, the capital of the Khmer Empire, as his state temple
+        and eventual mausoleum. Breaking from the Shaiva tradition of previous kings, Angkor Wat was instead
+        dedicated to Vishnu. As the best-preserved temple at the site, it is the only one to have remained
+        a significant religious centre since its foundation. \n \nThe temple is at the top of the high classical
+        style of Khmer architecture. It has become a symbol of Cambodia, appearing on its national flag,
+        and it is the country\'s prime attraction for visitors.</item>
+
+        <item>Chichen Itza was a large pre-Columbian city built by the Maya
+        people of the Terminal Classic period. The archaeological site is located in Tinúm Municipality,
+        Yucatán State, Mexico. Chichen Itza was a major focal point in the Northern Maya Lowlands from the
+        Late Classic (c. AD 600–900) through the Terminal Classic (c. AD 800–900) and into the early portion
+        of the Postclassic period (c. AD 900–1200). \n \nThe site exhibits a multitude of architectural styles,
+        reminiscent of styles seen in central Mexico and of the Puuc and Chenes styles of the Northern Maya
+        lowlands. \n \nThe presence of central Mexican styles was once thought to have been representative of
+        direct migration or even conquest from central Mexico, but most contemporary interpretations view
+        the presence of these non-Maya styles more as the result of cultural diffusion.</item>
+
+        <item>The Great Pyramid of Giza (also known as the Pyramid of
+        Khufu or the Pyramid of Cheops) is the oldest and largest of the three pyramids in the Giza pyramid
+        complex bordering present-day El Giza, Egypt. It is the oldest of the Seven Wonders of the Ancient World,
+        and the only one to remain largely intact. Based on a mark in an interior chamber naming the work gang and a reference to the fourth dynasty
+        Egyptian Pharaoh Khufu, Egyptologists believe that the pyramid was built as a tomb over a 10- to
+        20-year period concluding around 2560 BC. \n \nInitially at 146.5 metres (481 feet), the Great Pyramid
+        was the tallest man-made structure in the world for more than 3,800 years. Originally, the Great
+        Pyramid was covered by limestone casing stones that formed a smooth outer surface; what is seen
+        today is the underlying core structure. Some of the casing stones that once covered the structure
+        can still be seen around the base. \n \nThere have been varying scientific and alternative theories about
+        the Great Pyramid\'s construction techniques. Most accepted construction hypotheses are based on the
+        idea that it was built by moving huge stones from a quarry and dragging and lifting them into place.</item>
+        >
+
+        <item>Hagia Sophia is the former Greek Orthodox Christian patriarchal
+        cathedral, later an Ottoman imperial mosque and now a museum (Ayasofya Müzesi) in Istanbul, Turkey.
+        Built in 537 AD at the beginning of the Middle Ages, it was famous in particular for its massive dome.
+        It was the world\'s largest building and an engineering marvel of its time. \n \nIt is considered the epitome
+        of Byzantine architecture and is said to have "changed the history of architecture".
+        The Hagia Sophia construction consists of mostly masonry. The structure is composed of brick and
+        mortar joint that are 1.5 times the width of the bricks. \n \nThe mortar joints are composed of a
+        combination of sand and minute ceramic pieces displaced very evenly throughout the mortar joints.
+        This combination of sand and ceramic pieces could be considered to be the equivalent of modern
+        concrete at the time.</item>>
+
+        <item>Machu Picchu is a 15th-century Inca citadel, located in the Eastern
+        Cordillera of southern Peru, on a mountain ridge 2,430 metres (7,970 ft) above sea level. It is located
+        in the Cusco Region, Urubamba Province, Machupicchu District in Peru, above the Sacred Valley, which is
+        80 kilometres (50 mi) northwest of Cuzco and through which the Urubamba River flows, which cuts through
+        the Cordillera and originates a canyon with a tropical mountain climate. \n \nMost archaeologists believe that Machu Picchu was constructed as an estate for the Inca emperor
+        Pachacuti (1438–1472). Often mistakenly referred to as the "Lost City of the Incas" (a title more
+        accurately applied to Vilcabamba), it is the most familiar icon of Inca civilization. The Incas built
+        the estate around 1450 but abandoned it a century later at the time of the Spanish Conquest. \n \nAlthough
+        known locally, it was not known to the Spanish during the colonial period and remained unknown to the
+        outside world until American historian Hiram Bingham brought it to international attention in 1911.</item>
+
+        <item>Petra, originally known to its inhabitants as Raqmu, is a historical
+        and archaeological city in southern Jordan. Petra lies on the slope of Jabal Al-Madbah in a basin
+        among the mountains which form the eastern flank of the Arabah valley that runs from the Dead Sea
+        to the Gulf of Aqaba. \n \nPetra is believed to have been settled as early as 9,000 BC, and it was possibly
+        established in the 4th century BC as the capital city of the Nabataean Kingdom. The Nabataeans were
+        nomadic Arabs who invested in Petra\'s proximity to the trade routes by establishing it as a major
+        regional trading hub. \n \nThe trading business gained the Nabataeans considerable revenue and Petra became the focus of their
+        wealth. The earliest historical reference to Petra was an attack to the city ordered by Antigonus
+        I in 312 BC recorded by various Greek historians. The Nabataeans were, unlike their enemies, accustomed
+        to living in the barren deserts, and were able to repel attacks by utilizing the area\'s mountainous
+        terrain. They were particularly skillful in harvesting rainwater, agriculture and stone carving. \n \nPetra
+        flourished in the 1st century AD when its famous Khazneh structure – believed to be the mausoleum of
+        Nabataean King Aretas IV – was constructed, and its population peaked at an estimated 20,000 inhabitants.</item>
+        >
+
+        <item>Stonehenge is a prehistoric monument in Wiltshire, England,
+        two miles (3 km) west of Amesbury. It consists of a ring of standing stones, with each standing
+        stone around 13 feet (4.0 m) high, seven feet (2.1 m) wide and weighing around 25 tons. \n \nThe stones
+        are set within earthworks in the middle of the most dense complex of Neolithic and Bronze Age
+        monuments in England, including several hundred burial mounds. Archaeologists believe it was constructed
+        from 3000 BC to 2000 BC. \n \nThe surrounding circular earth bank and ditch, which constitute the earliest
+        phase of the monument, have been dated to about 3100 BC. Radiocarbon dating suggests that the first bluestones were raised between 2400
+        and 2200 BC, although they may have been at the site as early as 3000 BC. \n \nOne of the most famous landmarks in the United Kingdom, Stonehenge is regarded as a British cultural
+        icon. It has been a legally protected Scheduled Ancient Monument since 1882 when legislation to
+        protect historic monuments was first successfully introduced in Britain. The site and its surroundings
+        were added to UNESCOs list of World Heritage Sites in 1986. \n \nStonehenge is owned by the Crown and
+        managed by English Heritage; the surrounding land is owned by the National Trust.</item>>
+
+        <item>The Taj Mahal, meaning "Crown of the Palaces") is an ivory-white
+        marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned
+        in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his
+        favourite wife, Mumtaz Mahal. It also houses the tomb of Shah Jahan, the builder. The tomb is the
+        centerpiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is
+        set in formal gardens bounded on three sides by a crenellated wall. \n \nConstruction of the mausoleum was essentially completed in 1643 but work continued on other phases
+        of the project for another 10 years. The Taj Mahal complex is believed to have been completed in
+        its entirety in 1653 at a cost estimated at the time to be around 32 million rupees, which in 2015
+        would be approximately 52.8 billion rupees (U.S. $827 million). \n \nThe construction project employed
+        some 20,000 artisans under the guidance of a board of architects led by the court architect to the
+        emperor, Ustad Ahmad Lahauri.</item>>
+
+        <item>Tikal is the ruin of an ancient city, which was likely to have been
+        called Yax Mutal, found in a rainforest in Guatemala. It is one of the largest archaeological
+        sites and urban centers of the pre-Columbian Maya civilization. It is located in the archaeological
+        region of the Petén Basin in what is now northern Guatemala. Situated in the department of El Petén,
+        the site is part of Guatemala\'s Tikal National Park and in 1979 it was declared a UNESCO World
+        Heritage Site. \n \nTikal was the capital of a conquest state that became one of the most powerful kingdoms of the
+        ancient Maya. Though monumental architecture at the site dates back as far as the 4th century BC,
+        Tikal reached its apogee during the Classic Period, c. 200 to 900 AD. During this time, the city
+        dominated much of the Maya region politically, economically, and militarily, while interacting
+        with areas throughout Mesoamerica such as the great metropolis of Teotihuacan in the distant Valley
+        of Mexico. \n \nThere is evidence that Tikal was conquered by Teotihuacan in the 4th century CE. Following
+        the end of the Late Classic Period, no new major monuments were built at Tikal and there is evidence
+        that elite palaces were burned. These events were coupled with a gradual population decline, culminating
+        with the site’s abandonment by the end of the 10th century.</item>
+
+    </string-array>
+
+    <string-array name="site_titles">
+        <item>Alhambra</item>
+        <item>Angkor Wat</item>
+        <item>Chichen Itza</item>
+        <item>Great Pyramida of Giza</item>
+        <item>Hagia Sophia</item>
+        <item>Machu Picchu</item>
+        <item>Petra</item>
+        <item>Stonehenge</item>
+        <item>Taj Mahal</item>
+        <item>Tikal</item>
+    </string-array>
+
+    <string-array name="site_location">
+        <item>Location : Granada, Andalusia, Spain</item>
+        <item>Location : Angkor, Siem Reap, Cambodia</item>
+        <item>Location : Yucatan, Mexico</item>
+        <item>Location : Egypt</item>
+        <item>Location : Istanbul (historically Constantinople), Turkey</item>
+        <item>Location : Cusco  Region, Peru</item>
+        <item>Location : Maan Governorate, Jordan</item>
+        <item>Location : Wiltshire, England</item>
+        <item>Location : Agra, Uttar Pradesh, India</item>
+        <item>Location : Flores, Petén Department, Guatemala</item>
+    </string-array>
+
+    <array name="site_images">
+        <item>@drawable/img_alhambra</item>
+        <item>@drawable/img_angkorwat</item>
+        <item>@drawable/img_chicenitza</item>
+        <item>@drawable/img_greatpyramidofgiza</item>
+        <item>@drawable/img_hagiasophia</item>
+        <item>@drawable/img_machupicchu</item>
+        <item>@drawable/img_petra</item>
+        <item>@drawable/img_stonehenge</item>
+        <item>@drawable/img_tajmahal</item>
+        <item>@drawable/img_tikal</item>
+    </array>
+</resources>
